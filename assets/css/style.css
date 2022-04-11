@@ -66,6 +66,17 @@ html, body {
 
 /*-- ----------------------All line Style-----------------*/
 
+.first-project{
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px
+}
+.first-project:hover {
+    border: 1px solid #777;
+}
+
+
 hr {
     border: dotted #484951 9px;
     border-bottom: none;
@@ -128,6 +139,7 @@ hr {
     background-color: #a09e10;
     
 }
+ 
 
 
 .header div ul li {
@@ -187,3 +199,19 @@ p {
     padding: 1%;
 }
 
+
+.Random-fact{
+    font: optional;color: rgb(0, 0, 0);
+}
+
+
+
+  
+
+
+
+  
+
+
+
+  
