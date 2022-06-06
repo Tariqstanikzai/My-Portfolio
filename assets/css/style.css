@@ -16,7 +16,9 @@ html, body {
 }
 
 
-
+nav {
+    background-color: #a09d10;
+}
 /*-- ----------------------All Heading Style-----------------*/
 
 .section1 {
@@ -185,7 +187,7 @@ p {
 
 .footer {
     margin: 10px 0px 20px 0px;
-    background-color: #a09e10;
+    background-color: #a09d10;
     color: #ffffff;
     padding: 2% 0% 3% 0%;  
     
